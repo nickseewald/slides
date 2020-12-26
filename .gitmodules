@@ -1,0 +1,3 @@
+[submodule "250fa20-slides"]
+	path = 250fa20-slides
+	url = git@github.com:nseewald1/250fa20-slides.git
