@@ -1,6 +1,6 @@
 [submodule "250fa20-slides"]
 	path = 250fa20-slides
-	url = https://github.com/nseewald1/250fa20-slides
+	url = https://github.com/nickseewald/250fa20-slides
 [submodule "talk-urmc-2021"]
 	path = talk-urmc-2021
-	url = git@github.com:nickseewald/talk-urmc-2021.git
+	url = https://github.com/nickseewald/talk-urmc-2021.git
