@@ -7,3 +7,4 @@
 [submodule "talk-mneuronet-2022"]
 	path = talk-mneuronet-2022
 	url = https://github.com/nickseewald/talk-mneuronet-2022.git
+	branch = main
