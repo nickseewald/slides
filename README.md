@@ -10,7 +10,8 @@
 
 ### Conference Posters
 
-- [AcademyHealth Annual Research Meeting 2022](/academyhealth2022.pdf)
+- [AcademyHealth Annual Research Meeting 2022](/academyhealth2022.pdf)  
+    - [Supplementary Material](/academyhealth2022-supplement.pdf)
 
 ## Invited Presentations
 
