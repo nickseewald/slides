@@ -2,6 +2,7 @@
 
 ### Conference Presentations
 
+- [Joint Statistical Meetings 2022](/jsm2022.pdf)
 - [American Causal Inference Conference 2022](/acic2022.pdf)
 - [ENAR Spring Meeting 2021](/enar2021.pdf)
 - [Joint Statistical Meetings 2020](/jsm2020.pdf)
