@@ -36,3 +36,7 @@
 ## Teaching
 
 - [STATS 250 Fall 2020](/250fa20-slides)
+
+## Lab Meetings, etc.
+
+- [Stuart Lab Meeting: August 30, 2022](/stuartAug2022.pdf)
