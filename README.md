@@ -29,9 +29,10 @@
 
 ## Invited Presentations
 
+- [University of Colorado Biostatistics and Informatics 2023](/colorado2023.pdf)
 - [University of Michigan MNeuroNetwork 2022](/talk-mneuronet-2022/index.html)
 - [University of Rochester 2021](/talk-urmc-2021/index.html)
-- [University of Michigan Statistics Student Seminar 2015](/stats-student-seminar2015.pdf201)
+- [University of Michigan Statistics Student Seminar 2015](/stats-student-seminar2015.pdf)
 
 ## Teaching
 
