@@ -41,6 +41,7 @@
 
 ## Invited Presentations
 
+- [University of Pennsylvania Department of Biostatistics, Epidemiology, and Informatics](/upenn2023.pdf)
 - [Henry Ford Health Department of Public Health Sciences](/henryford2023.pdf)
 - [Northwestern University Feinberg School of Medicine](/nubcc2023.pdf)
 - [University of Wisconsin-Madison School of Medicine and Public Health](/wisc2023.pdf)
