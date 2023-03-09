@@ -41,11 +41,12 @@
 
 ## Invited Presentations
 
-- [University of Pennsylvania Department of Biostatistics, Epidemiology, and Informatics](/upenn2023.pdf)
-- [Henry Ford Health Department of Public Health Sciences](/henryford2023.pdf)
-- [Northwestern University Feinberg School of Medicine](/nubcc2023.pdf)
-- [University of Wisconsin-Madison School of Medicine and Public Health](/wisc2023.pdf)
-- [University of Colorado Biostatistics and Informatics 2023](/colorado2023.pdf)
+- [Wake Forest University School of Medicine, Department of Biostatistics and Data Science](/wfusm2023.pdf)
+- [University of Pennsylvania, Department of Biostatistics, Epidemiology, and Informatics](/upenn2023.pdf)
+- [Henry Ford Health, Department of Public Health Sciences](/henryford2023.pdf)
+- [Northwestern University Feinberg School of Medicine, Biostatistics Collaboration Center](/nubcc2023.pdf)
+- [University of Wisconsin-Madison School of Medicine and Public Health, Departments of Population Health Sciences and Biostatistics & Medical Informatics](/wisc2023.pdf)
+- [University of Colorado Anschutz Medical Campus, Department of Biostatistics and Informatics](/colorado2023.pdf)
 - [University of Michigan MNeuroNetwork 2022](/talk-mneuronet-2022/index.html)
 - [University of Rochester 2021](/talk-urmc-2021/index.html)
 - [University of Michigan Statistics Student Seminar 2015](/stats-student-seminar2015.pdf)
