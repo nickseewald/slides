@@ -1,9 +1,3 @@
-Contents:
-- [Conferences](#conferences)
-- [Invited Presentations](#invited-presentations)
-- [Teaching](#teaching)
-- [Miscellaneous](#lab-meetings-etc)
-
 ## Conferences
 
 - **2023**
