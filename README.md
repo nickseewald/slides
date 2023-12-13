@@ -36,6 +36,7 @@
 
 ## Invited Presentations
 
+- [University of Pennsylvania Perelman School of Medicine, Department of Biostatistics, Epidemiology, and Informatics, Epidemiology Seminar](/dbeiepi2023.pdf)
 - [Wake Forest University School of Medicine, Department of Biostatistics and Data Science](/wfusm2023.pdf)
 - [University of Pennsylvania Perelman School of Medicine, Department of Biostatistics, Epidemiology, and Informatics](/upenn2023.pdf)
 - [Henry Ford Health, Department of Public Health Sciences](/henryford2023.pdf)
