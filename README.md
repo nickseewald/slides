@@ -37,6 +37,7 @@
 
 ## Invited Presentations
 
+- [Child Intervention, Prevention, and Services (CHIPS) Training Institute. 5/13/24.](/chips2024.pdf)
 - [University of Pennsylvania Perelman School of Medicine, Department of Biostatistics, Epidemiology, and Informatics, Epidemiology Seminar. 12/13/23.](/dbeiepi2023.pdf)
 - [Wake Forest University School of Medicine, Department of Biostatistics and Data Science](/wfusm2023.pdf)
 - [University of Pennsylvania Perelman School of Medicine, Department of Biostatistics, Epidemiology, and Informatics](/upenn2023.pdf)
