@@ -1,5 +1,8 @@
 ## Conferences
 
+- **2024**
+  - [American Causal Inference Conference 2024](/acic2024.pdf)
+
 - **2023**
   - [International Conference on Computational and Methodological Statistics (CM Statistics) 2023](/cmstatistics2023.pdf)
   - [Society for Epidemiologic Research Annual Meeting 2023](/ser2023.pdf)
