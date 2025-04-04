@@ -1,7 +1,7 @@
 ## Conferences
 
 - **2025**
-  - [ENAR Spring Meeting 2025](/enar2025.pdf) [powerpoint](/seewaldENAR2025.pptx)
+  - [ENAR Spring Meeting 2025](/enar2025.pdf)
 
 - **2024**
   - [Thomas R. Ten Have Symposium on Statistics in Mental Health 2024](/tenhave2024.pdf)
