@@ -44,7 +44,7 @@
 
 ## Invited Presentations
 
-- [North Carolina State University Department of Statistics. 4/4/25.](/ncsu2025.pdf)
+- [North Carolina State University Department of Statistics. 4/4/25.](/ncsu2025.pdf) [(pptx)](/ncsu2025.pptx)
 - [Child Intervention, Prevention, and Services (CHIPS) Training Institute. 5/13/24.](/chips2024.pdf)
 - [Philadelphia Chapter of the American Statistical Association. 3/21/24.](/phillyASA2024.pdf)
 - [University of Pennsylvania Perelman School of Medicine, Department of Biostatistics, Epidemiology, and Informatics, Epidemiology Seminar. 12/13/23.](/dbeiepi2023.pdf)
