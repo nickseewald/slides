@@ -1,6 +1,7 @@
 ## Conferences
 
 - **2025**
+  - [Society for Epidemiologic Research Annual Meeting 2025](/ser2025.pdf) [.pptx](/seewaldSER2025.pptx)
   - [ENAR Spring Meeting 2025](/enar2025.pdf)
 
 - **2024**
