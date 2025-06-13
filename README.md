@@ -27,7 +27,7 @@
 - **2019**
   - [International Conference on Computational and Methodological Statistics 2019](/cmstatistics2019.pdf)
   - [Joint Statistical Meetings 2019](/jsm2019.pdf)
-  - [Michigan Student Symposium for Interdisciplinary Statistical Science 2019](/mssiss2019.pdf)
+  - [Michigan Student Symposium for Interdisciplinary Statistical Science 2019](/tenhave2018.pdf)
   - [Society for Clinical Trials Annual Meeting 2019](/sct2019.pdf)
   - [Thomas R. Ten Have Symposium on Statistics in Mental Health 2018](/tenhave2018.pdf)
 - **2018**
